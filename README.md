@@ -2,7 +2,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/programador404/ReactNative-PlantManager)
 ![GitHub starts](https://img.shields.io/github/stars/programador404/ReactNative-PlantManager)
 ![GitHub license](https://img.shields.io/github/license/programador404/ReactNative-PlantManager)
-![React Podcastr](https://img.shields.io/badge/Expo-components-green)
+![Expo](https://img.shields.io/badge/Expo-components-red)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 
