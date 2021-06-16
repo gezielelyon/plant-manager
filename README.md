@@ -8,7 +8,7 @@
 
 ![fefefefe](https://user-images.githubusercontent.com/48457700/116459591-66bb7f00-a83c-11eb-8c6e-9d691e04f0e0.png)
 
-# React-Native PlantManager
+# React-Native App PlantManager
 This is an application mobile created with Expo that will help you to take care your plants
 
 ## Technologies Used:
