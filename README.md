@@ -15,7 +15,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![Expo](https://img.shields.io/badge/Expo-Development-red)
-![React Native](https://img.shields.io/badge/Expo-Components-red)
+![React Native](https://img.shields.io/badge/Expo-Components-pink)
 
 </div>
 
