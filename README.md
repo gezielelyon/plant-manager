@@ -8,10 +8,10 @@
 
 <div align='center'>
 
-[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/plant_manager)](https://github.com/gezielelyon/plant_manager/issues)
-[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/plant_manager)](https://github.com/gezielelyon/plant_manager/network)
-[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/plant_manager)](https://github.com/gezielelyon/plant_manager/stargazers)
-[![GitHub license](https://img.shields.io/github/license/gezielelyon/plant_manager)](https://github.com/gezielelyon/plant_manager)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/plant-manager)](https://github.com/gezielelyon/plant-manager/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/plant-manager)](https://github.com/gezielelyon/plant-manager/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/plant-manager)](https://github.com/gezielelyon/plant-manager/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/plant-manager)](https://github.com/gezielelyon/plant-manager)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![Expo](https://img.shields.io/badge/Expo-Development-red)
